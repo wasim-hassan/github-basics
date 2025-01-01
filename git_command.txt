@@ -1,0 +1,9 @@
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+git init
+git status
+git add <filename>
+git add .
+git commit -m "Your message"
+git rm --cached
+git restore <filename>
