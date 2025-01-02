@@ -7,3 +7,7 @@ git add .
 git commit -m "Your message"
 git rm --cached
 git restore <filename>
+
+
+
+This is some new changes
